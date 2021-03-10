@@ -6728,11 +6728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\M\\Desktop\\WymianaKsiazek\\WymianaKsiazek\\WymianaKsiazek.Api\\WymianaKsiazek.Api.csproj",
+      "projectUniqueName": "C:\\Users\\M\\Source\\Repos\\WymianaKsiazek-Backend-\\WymianaKsiazek.Api\\WymianaKsiazek.Api.csproj",
       "projectName": "WymianaKsiazek.Api",
-      "projectPath": "C:\\Users\\M\\Desktop\\WymianaKsiazek\\WymianaKsiazek\\WymianaKsiazek.Api\\WymianaKsiazek.Api.csproj",
+      "projectPath": "C:\\Users\\M\\Source\\Repos\\WymianaKsiazek-Backend-\\WymianaKsiazek.Api\\WymianaKsiazek.Api.csproj",
       "packagesPath": "C:\\Users\\M\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\M\\Desktop\\WymianaKsiazek\\WymianaKsiazek\\WymianaKsiazek.Api\\obj\\",
+      "outputPath": "C:\\Users\\M\\Source\\Repos\\WymianaKsiazek-Backend-\\WymianaKsiazek.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\M\\AppData\\Roaming\\NuGet\\NuGet.Config",

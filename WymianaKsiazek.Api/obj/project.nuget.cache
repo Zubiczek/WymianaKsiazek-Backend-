@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "22on/4lzoDs9tNQiHwFiPcNOlWGM4vX8JB6JDau9qFIWaPKgGozDJrlrHAJNIPbTev8DG68H2/kFVzsUJ9xyrg==",
+  "dgSpecHash": "V6NS2Eg5EdqGcgwF8Y257rIfwxje2pGHcxiZhvkfMnl2yzCLn+iMonzZVvmF6aQPuPt81lj04EusSOuensloiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\M\\Desktop\\WymianaKsiazek\\WymianaKsiazek\\WymianaKsiazek.Api\\WymianaKsiazek.Api.csproj",
+  "projectFilePath": "C:\\Users\\M\\Source\\Repos\\WymianaKsiazek-Backend-\\WymianaKsiazek.Api\\WymianaKsiazek.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\M\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\M\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
